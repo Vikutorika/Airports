@@ -9,4 +9,4 @@
 
 ## 订阅
 
-- 8度科技 https://raw.githubusercontent.com/chfchf0306/jeidian4.18/main/4.18
+- 8度科技（前面v2ray后面clash） https://cdn.jsdelivr.net/gh/chfchf0306/jeidian4.18@main/4.18 | https://cdn.jsdelivr.net/gh/chfchf0306/jeidian4.18@main/4.18
