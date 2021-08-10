@@ -2,6 +2,19 @@
 
 **本页面禁止大范围传播！！！**
 
+## 软件（此处只举例不放链接）
+
+### v2ray系列
+
+- v2rayN (Windows)
+- v2rayNG (Android)
+- qv2ray (除ios)
+
+### clash系列
+
+- clash (桌面端)
+- Clash for Android (Android)
+
 ## 机场
 
 - ikuuu鸡场 https://ikuuu.co 每月白嫖50G 有香港日本节点（如果域名被墙会换一个域名，此处不一定是最新）
