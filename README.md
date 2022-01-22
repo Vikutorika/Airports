@@ -23,7 +23,7 @@
 
 ## Telegram频道
 
-- [ShareCentre Pro || 全网节点仓库](https://t.me/ShareCentrePro)
+- [ShareCentre Pro \|\| 全网节点仓库](https://t.me/ShareCentrePro)
 - [人类高质量分享中心｜ShareCentre](https://t.me/ShareCentre)
 
 ## 订阅
