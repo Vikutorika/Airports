@@ -21,6 +21,14 @@
 - xxl123鸡场 https://fly.xxl123.fun 每月白嫖50G 有香港日本负载均衡和此两个地区的单节点，每月50G，需要在商店购买白嫖套餐（每个月都要），优惠码为`qifei`
 - PBAPCC机场 https://my.pbap.cc/ 每月5G（但可免费重置流量） 地区多样 需要在商店自行下单0元套餐以续费
 
+## 某些特殊的订阅链接
+
+**不定时失效**
+
+- https://mkkhack.pw/ssr.php [来源](https://t.me/ShareCentrePro/391)
+- https://mimon.cc/api/v1/client/subscribe?token=fce9091c2056a0a2d35b01e9fb23e443 [来源](https://t.me/ShareCentrePro/384)
+- https://sub.blackhole02.site/api/v1/client/subscribe?token=b26fec6b07f4bfbc78ed96113e59ee52 [来源](https://t.me/ShareCentrePro/375)
+
 ## Telegram频道
 
 - [ShareCentre Pro \|\| 全网节点仓库](https://t.me/ShareCentrePro)
