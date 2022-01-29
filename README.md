@@ -34,3 +34,4 @@
 |---|---|---|
 |8度科技 | https://cdn.jsdelivr.net/gh/chfchf0306/jeidian4.18@main/4.18 | https://suo.yt/ikUfkC8|
 |[@ShareCenter](https://t.me/ShareCentre) | https://sub.qaq.wtf | https://suo.yt/qYYCZrL |
+| [SCP \|\| 全网节点仓库](https://t.me/ShareCentrePro) | https://github.com/git-yusteven/openit/raw/main/long | https://github.com/git-yusteven/openit/raw/main/Clash.yaml |
