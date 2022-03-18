@@ -28,6 +28,7 @@
 
 - https://mkkhack.pw/ssr.php [来源](https://t.me/ShareCentrePro/391)
 - https://v1.mk/D4Cw1VQ [来源](https://t.me/ShareCentrePro/989)
+- https://cdn.jsdelivr.net/gh/git-yusteven/openit@main/https [来源](https://t.me/ShareCentrePro/942)
 
 ## Telegram频道
 
