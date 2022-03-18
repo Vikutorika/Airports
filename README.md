@@ -27,8 +27,7 @@
 **不定时失效**
 
 - https://mkkhack.pw/ssr.php [来源](https://t.me/ShareCentrePro/391)
-- https://mimon.cc/api/v1/client/subscribe?token=fce9091c2056a0a2d35b01e9fb23e443 [来源](https://t.me/ShareCentrePro/384)
-- https://sub.blackhole02.site/api/v1/client/subscribe?token=b26fec6b07f4bfbc78ed96113e59ee52 [来源](https://t.me/ShareCentrePro/375)
+- https://v1.mk/D4Cw1VQ [来源](https://t.me/ShareCentrePro/989)
 
 ## Telegram频道
 
