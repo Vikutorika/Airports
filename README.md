@@ -44,6 +44,7 @@
 - https://github.com/chfchf0306/jeidian4.18
 - https://github.com/yu-steven/openit
 - https://github.com/Pawdroid/Free-servers
+- https://naive.wangcb.com/
 - https://github.com/wrfree/free
 - https://github.com/colatiger/v2ray-nodes
 - https://github.com/alanbobs999/TopFreeProxies
