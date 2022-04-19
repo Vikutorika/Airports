@@ -1,4 +1,2 @@
-# theme: jekyll-theme-hacker
-remote_theme: jjeffreytse/jekyll-theme-yat
-
+# remote_theme: 
 theme: jekyll-theme-minimal
