@@ -2,6 +2,8 @@
 
 **本页面禁止大范围传播！！！**
 
+**请注意，本页面链接的网址中可能含有不适当的信息，请根据自己的思想去判断正确与否！**
+
 ## 软件（此处只举例不放链接）
 
 ### v2ray系列
@@ -34,6 +36,19 @@
 - https://xiaokuqwq.top/ [来源](https://t.me/ShareCentrePro/1282)
 - https://prop.cf/gf?v2 [来源](https://t.me/wmxprop/4)
 
+## 公益页面/自动抓取
+
+- https://github.com/ldir92664/Vmess-Actions/tree/main/subscribe
+- https://github.com/vpei/Free-Node-Merge
+- https://v2rayse.com/
+- https://github.com/chfchf0306/jeidian4.18
+- https://github.com/yu-steven/openit
+- https://github.com/Pawdroid/Free-servers
+- https://github.com/wrfree/free
+- https://github.com/colatiger/v2ray-nodes
+- https://github.com/alanbobs999/TopFreeProxies
+- https://github.com/ermaozi/get_subscribe
+- https://github.com/JACKUSR2089/v2ray-subscribed
 
 ## Telegram频道
 
