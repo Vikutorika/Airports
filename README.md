@@ -35,6 +35,8 @@
 - https://speedcncn.co/api/v1/client/subscribe?token=9d82f92b30911e91a343920e10124546 [来源](https://t.me/ShareCentrePro/1309)
 - https://xiaokuqwq.top/ [来源](https://t.me/ShareCentrePro/1282)
 - https://prop.cf/gf?v2 [来源](https://t.me/wmxprop/4)
+- https://api.wannaflix.link/apiv3.php?type=v2rayng&token=d30416c24baacb53e3b80f6c49233361 [来源](https://t.me/freekankan/878)
+- https://paste.in/raw/Nm2CL4 [来源](https://t.me/freekankan/876) （CLASH）
 
 ## 公益页面/自动抓取
 
