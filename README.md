@@ -4,6 +4,10 @@
 
 **请注意，本页面链接的网址中可能含有不适当的信息，请根据自己的思想去判断正确与否！**
 
+## 访问统计 (自2022.4.20)
+
+![访问统计](https://count.getloli.com/get/@airports-share4nothing?theme=rule34)
+
 ## 软件（此处只举例不放链接）
 
 ### v2ray系列
