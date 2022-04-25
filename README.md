@@ -4,9 +4,6 @@
 
 **请注意，本页面链接的网址中可能含有不适当的信息，请根据自己的思想去判断正确与否！**
 
-## 访问统计 (自2022.4.20)
-
-![访问统计](https://count.getloli.com/get/@airports-share4nothing?theme=rule34)
 
 ## 软件（此处只举例不放链接）
 
@@ -41,7 +38,6 @@
 - https://prop.cf/gf?v2 [来源](https://t.me/wmxprop/4)
 - https://api.wannaflix.link/apiv3.php?type=v2rayng&token=d30416c24baacb53e3b80f6c49233361 [来源](https://t.me/freekankan/878)
 - https://paste.in/raw/Nm2CL4 [来源](https://t.me/freekankan/876) （CLASH）
-- https://api.vmess.top/api/v1/client/subscribe?token=ca86be6af13f46f59a27b0a71115a303 [来源](https://t.me/Jsnzk/6271)
 
 ## 公益页面/自动抓取
 
