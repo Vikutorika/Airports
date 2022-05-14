@@ -18,6 +18,10 @@
 - clash (桌面端)
 - Clash for Android (Android)
 
+## 收费（还算划算）的鸡场
+
+- eevpn鸡场 https://cmlink.v2fly.co/#/register?code=EGO8NaWF 9.9一年每个月15G，轻量使用没啥问题
+
 ## 机场
 
 - ikuuu鸡场 https://ikuuu.co 每月白嫖50G 有香港日本节点（如果域名被墙会换一个域名，此处不一定是最新）
