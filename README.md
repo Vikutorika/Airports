@@ -1,6 +1,6 @@
 # Airports 个人机场/订阅汇总
 
-**本页面禁止大范围传播！！！**
+**本页面禁止大范围传播！！！本页面的推荐纯个人推荐，没有接任何广告。**
 
 **请注意，本页面链接的网址中可能含有不适当的信息，请根据自己的思想去判断正确与否！**
 
@@ -25,10 +25,7 @@
 ## 机场
 
 - ikuuu鸡场 https://ikuuu.co 每月白嫖50G 有香港日本节点（如果域名被墙会换一个域名，此处不一定是最新）
-- xxl123鸡场 https://fly.xxl123.fun 每月白嫖50G 有香港日本负载均衡和此两个地区的单节点，每月50G，需要在商店购买白嫖套餐（每个月都要），优惠码为`qifei`
-- PBAPCC机场 https://my.pbap.cc/ 每月5G（但可免费重置流量） 地区多样 需要在商店自行下单0元套餐以续费
-- 公益免费战斗机发射台 http://lantian1.cf/#/register?code=5zt9mjoV （请带上这个邀请码，这个是官方用于统计人数的） 输入优惠码`114514`订阅免费套餐即可，每天999G
-
+- pupucloud https://pupucloud.live/auth/register?code=YHcW 
 
 ## 某些特殊的订阅链接
 
@@ -49,7 +46,7 @@
 - https://github.com/vpei/Free-Node-Merge
 - https://v2rayse.com/
 - https://github.com/chfchf0306/jeidian4.18
-- https://github.com/yu-steven/openit
+- **（推荐）**https://github.com/yu-steven/openit
 - https://github.com/Pawdroid/Free-servers
 - https://naive.wangcb.com/
 - https://github.com/wrfree/free
