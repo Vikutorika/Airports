@@ -25,7 +25,7 @@
 ## 机场
 
 - ikuuu鸡场 https://ikuuu.co 每月白嫖50G 有香港日本节点（如果域名被墙会换一个域名，此处不一定是最新）
-- pupucloud https://pupucloud.live/auth/register?code=YHcW 
+- pupucloud https://pupucloud.live/auth/register?code=YHcW 每月30G 地区有美 新加坡 日本 香港
 
 ## 某些特殊的订阅链接
 
