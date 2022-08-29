@@ -27,18 +27,9 @@
 - ikuuu鸡场 https://ikuuu.co 每月白嫖50G 有香港日本节点（如果域名被墙会换一个域名，此处不一定是最新）
 - pupucloud https://pupucloud.live/auth/register?code=YHcW 每月30G 地区有美 新加坡 日本 香港
 
-## 某些特殊的订阅链接
+## 某些服务器链接
 
-**不定时失效**
-
-- https://mkkhack.pw/ssr.php [来源](https://t.me/ShareCentrePro/391)
-- https://v1.mk/D4Cw1VQ [来源](https://t.me/ShareCentrePro/989)
-- https://cdn.jsdelivr.net/gh/git-yusteven/openit@main/https [来源](https://t.me/ShareCentrePro/942)
-- https://speedcncn.co/api/v1/client/subscribe?token=9d82f92b30911e91a343920e10124546 [来源](https://t.me/ShareCentrePro/1309)
-- https://xiaokuqwq.top/ [来源](https://t.me/ShareCentrePro/1282)
-- https://prop.cf/gf?v2 [来源](https://t.me/wmxprop/4)
-- https://api.wannaflix.link/apiv3.php?type=v2rayng&token=d30416c24baacb53e3b80f6c49233361 [来源](https://t.me/freekankan/878)
-- https://paste.in/raw/Nm2CL4 [来源](https://t.me/freekankan/876) （CLASH）
+- BuyVm 无限流量 CF优选ip `vmess://eyJ2IjoiMiIsInBzIjoiQnV5Vk0gfCBTaGFyZUNlbnRyZVBybyIsImFkZCI6ImNmLm5haXhpaS50b3AiLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjVlNmY3ZDFmLWFlMjItNDhiNC05ZDczLTg4MzE0ZGU0ZDRhNyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcXZGdmZBZkh2eiIsImhvc3QiOiJidm0ubmFpeGlpLnRvcCIsInRscyI6InRscyJ9`
 
 ## 公益页面/自动抓取
 
