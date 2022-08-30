@@ -33,7 +33,7 @@
 
 ## 公益订阅链接
 
-- https://cdn.bilicdn.tk/gh/Jsnzkpg/Jsnzkpg@Jsnzkpg/Jsnzkpg
+- SSR https://cdn.bilicdn.tk/gh/Jsnzkpg/Jsnzkpg@Jsnzkpg/Jsnzkpg
 
 ## 公益页面/自动抓取
 
