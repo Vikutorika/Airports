@@ -31,6 +31,10 @@
 
 - BuyVm 无限流量 CF优选ip `vmess://eyJ2IjoiMiIsInBzIjoiQnV5Vk0gfCBTaGFyZUNlbnRyZVBybyIsImFkZCI6ImNmLm5haXhpaS50b3AiLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjVlNmY3ZDFmLWFlMjItNDhiNC05ZDczLTg4MzE0ZGU0ZDRhNyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcXZGdmZBZkh2eiIsImhvc3QiOiJidm0ubmFpeGlpLnRvcCIsInRscyI6InRscyJ9`
 
+## 公益订阅链接
+
+- https://cdn.bilicdn.tk/gh/Jsnzkpg/Jsnzkpg@Jsnzkpg/Jsnzkpg
+
 ## 公益页面/自动抓取
 
 - https://github.com/ldir92664/Vmess-Actions/tree/main/subscribe
