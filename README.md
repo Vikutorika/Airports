@@ -42,7 +42,7 @@
 - https://github.com/vpei/Free-Node-Merge
 - https://v2rayse.com/
 - https://github.com/chfchf0306/jeidian4.18
-- **（推荐）**https://github.com/yu-steven/openit
+- **（推荐，原来的已经REMOVED了，这个是我弄过来的备份，带自动更新）**https://github.com/Vikutorika/openit
 - https://github.com/Pawdroid/Free-servers
 - https://naive.wangcb.com/
 - https://github.com/wrfree/free
