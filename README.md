@@ -21,7 +21,7 @@
 
 ## 收费（还算划算）的鸡场
 
-- eevpn鸡场 https://cmlink.v2fly.co/#/register?code=EGO8NaWF 9.9一年每个月15G，轻量使用没啥问题
+- （跑路了）
 
 ## 机场
 
