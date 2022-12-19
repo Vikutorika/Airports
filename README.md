@@ -51,6 +51,7 @@
 - https://github.com/ermaozi/get_subscribe
 - https://github.com/JACKUSR2089/v2ray-subscribed
 - https://sub.sharecentre.online/sub
+- (Clash) https://prop.cf/?name=paimon
 
 
 ## Telegram频道
