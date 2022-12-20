@@ -66,20 +66,20 @@
 [clash]: https://cdn.jsdelivr.net/Fndroid/clash_for_windows_pkg/releases/download/0.19.27/Clash.for.Windows-0.19.27-win.7z
 [qv2ray]: https://cdn.jsdelivr.net/Qv2ray/Qv2ray/releases/download/v2.7.0/Qv2ray-v2.7.0-Windows.7z
 [Clash汉化补丁]: https://ghproxy.com/https://github.com/ender-zhao/Clash-for-Windows_Chinese/releases/download/CFW-V0.19.27_CN/app.asar
-## macOS
+### macOS
 首推Clash，界面美观，**只支持英文**且需要订阅转换！ClashX和Clash一样的内核，ClashX同样需要订阅转换但是**支持简体中文**，SS最后一次更新则是2019.11.13；M1芯片还可以使用iPhone/iPad版的Shadowrocket & Quantumult X & Arm版的Clash(Arm)和经过Rosetta 2转译的Clash(intel)
 OneClick 在mac下确实可用，但是如果能用其他的就用其他的。
 >**.7z文件如何解压？**
 使用系统自带的双击解压 .7z文件或者使用The Unarchiver[^2]进行解压 **(只能解压)**
-### [SS][ss-NG]｜[Clash(intel)]｜[Clash(Arm)]｜[ClashX]｜[Qv2ray](https://ghproxy.com/https://github.com/Qv2ray/Qv2ray/releases/download/v2.7.0/Qv2ray-v2.7.0-macOS-x64.dmg)｜[Surge](https://nssurge.com/)｜[v2rayU]
+#### [SS][ss-NG]｜[Clash(intel)]｜[Clash(Arm)]｜[ClashX]｜[Qv2ray](https://ghproxy.com/https://github.com/Qv2ray/Qv2ray/releases/download/v2.7.0/Qv2ray-v2.7.0-macOS-x64.dmg)｜[Surge](https://nssurge.com/)｜[v2rayU]
  <!--｜SS｜Clash(intel)｜Clash(Arm)｜ClashX｜Qv2ray｜Surge｜v2rayX｜Shadowrocket(Arm)｜Quantumult X(Arm)｜Surge(Arm)｜ 教程-->
-### Shadowrocket(Arm) *$2.99*
+#### Shadowrocket(Arm) *$2.99*
 [![点击跳转至Mac App Store][macos-black]][Shadowrocket]
-### Quantumult X(Arm) *$7.99*
+#### Quantumult X(Arm) *$7.99*
 [![点击跳转至Mac App Store][macos-black]][Quantumult X]
-### Surge(Arm) *$49.99* App内购买
+#### Surge(Arm) *$49.99* App内购买
 [![点击跳转至Mac App Store][macos-black]][Surge]
-### OneClick(Arm) *Free*
+#### OneClick(Arm) *Free*
 [![点击跳转至Mac App Store][macos-black]][one-click]
 
 [ss-NG]: https://cdn.jsdelivr.net/shadowsocks/ShadowsocksX-NG/releases/download/v1.9.4/ShadowsocksX-NG.1.9.4.zip
@@ -94,51 +94,51 @@ OneClick 在mac下确实可用，但是如果能用其他的就用其他的。
 [Surge]: https://apps.apple.com/app/surge-4/id1442620678
 [one-click]: https://apps.apple.com/us/app/oneclick-safe-easy-fast/id1545555197
 [macos-black]: https://ghproxy.com/https://raw.githubusercontent.com/yu-steven/tag/main/macos-black.svg
-### [The Unarchiver](https://dl.devmate.com/com.macpaw.site.theunarchiver/TheUnarchiver.dmg)
+#### [The Unarchiver](https://dl.devmate.com/com.macpaw.site.theunarchiver/TheUnarchiver.dmg)
 [![点击跳转至Mac App Store][macos-black]](https://apps.apple.com/app/the-unarchiver/id425424353)
-##### [xxx.app 已损坏，无法打开，你应该将它移到废纸篓 / 打不开 xxx，因为它来自身份不明的开发者的解决方法](https://www.macwk.com/article/macos-file-damage)
+###### [xxx.app 已损坏，无法打开，你应该将它移到废纸篓 / 打不开 xxx，因为它来自身份不明的开发者的解决方法](https://www.macwk.com/article/macos-file-damage)
 
-## Android
+### Android
 首推 Github 的 ClashForAndroid (Premium内核版本),还有魔改ss和v2rayNG其次(蓝字是软件apk安装包地址,对应蓝字下方的是Google play地址)，魔改ss可以支持更多类型的节点；kitsunebi老牌翻墙工具；Sagernet是基于Xray-core的新翻墙工具；Matsuri(中文名“茉莉”)作为SagerNet的一个分支，功能强大，很多人在用；Surfboard是一个与Surge配置兼容的代理实用工具；SS与SSR支持自己的协议
 
  <!--教程 ｜SS｜v2rayNG｜Clash｜Kitsunebi｜Surfboard｜SSR｜-->
-### [SS][apk-ss]
+#### [SS][apk-ss]
 <a href="https://play.google.com/store/apps/details?id=com.github.shadowsocks" target="_black">
 <img alt="轻触跳转至Google Play" width="150px" src="https://ghproxy.com/https://raw.githubusercontent.com/yu-steven/tag/main/google-play.svg" />
 </a>
 
-### [v2rayNG][apk-v2rayng]
+#### [v2rayNG][apk-v2rayng]
 <a href="https://play.google.com/store/apps/details?id=com.v2ray.ang" target="_black">
 <img alt="轻触跳转至Google Play" width="150px" src="https://ghproxy.com/https://raw.githubusercontent.com/yu-steven/tag/main/google-play.svg" />
 </a>
 
-### [Clash][apk-clash]
+#### [Clash][apk-clash]
 <a href="https://play.google.com/store/apps/details?id=com.github.kr328.clash" target="_black">
 <img alt="轻触跳转至Google Play" width="150px" src="https://ghproxy.com/https://raw.githubusercontent.com/yu-steven/tag/main/google-play.svg" />
 </a>
 
-### [Matsuri][apk-Matsuri]
+#### [Matsuri][apk-Matsuri]
 <a href="https://f-droid.org/packages/moe.matsuri.lite" target="_black">
 <img alt="轻触跳转至Google Play" height="62px" src="https://fdroid.gitlab.io/artwork/badge/get-it-on.svg" />
 </a>
 
-### [SagerNet][apk-SagerNet]
+#### [SagerNet][apk-SagerNet]
 <a href="https://play.google.com/store/apps/details?id=io.nekohasekai.sagernet" target="_black">
 <img alt="轻触跳转至Google Play" width="150px" src="https://ghproxy.com/https://raw.githubusercontent.com/yu-steven/tag/main/google-play.svg" />
 </a>
 
-### [Kitsunebi][apk-Kitsunebi]
+#### [Kitsunebi][apk-Kitsunebi]
 <a href="https://play.google.com/store/apps/details?id=fun.kitsunebi.kitsunebi4android" target="_black">
 <img alt="轻触跳转至Google Play" width="150px" src="https://ghproxy.com/https://raw.githubusercontent.com/yu-steven/tag/main/google-play.svg" />
 </a>
 
-### [Surfboard][apk-surfboard]
+#### [Surfboard][apk-surfboard]
 <a href="https://play.google.com/store/apps/details?id=com.getsurfboard" target="_black">
 <img alt="轻触跳转至Google Play" width="150px" src="https://ghproxy.com/https://raw.githubusercontent.com/yu-steven/tag/main/google-play.svg" />
 </a>
 
-### [魔改ss](https://ghproxy.com/https://raw.githubusercontent.com/yu-steven/openit/main/images/Shadowsocks_4.8.5.apk)
-### [SSR][apk-ssr]
+#### [魔改ss](https://ghproxy.com/https://raw.githubusercontent.com/yu-steven/openit/main/images/Shadowsocks_4.8.5.apk)
+#### [SSR][apk-ssr]
 
 [apk-ss]: https://apkpure.com/shadowsocks/com.github.shadowsocks/download
 [apk-v2rayng]: https://apkpure.com/v2rayng/com.v2ray.ang/download
@@ -154,7 +154,7 @@ OneClick 在mac下确实可用，但是如果能用其他的就用其他的。
 [google-surfboard]: https://play.google.com/store/apps/details?id=com.getsurfboard
 [google-play]: https://gitlab.com/yu-steven/tag/-/raw/main/google-play.svg
 
-## iOS
+### iOS
 首推Shadowrocket(俗称小火箭)后起之秀，支持众多格式[如图](#shadowrocket支持的协议--返回)简单易用并支持分享节点([教程](https://doc.opit.top/tutorial/ios-shadowrocket.html)); 
 Quantumult和QuantumultX(俗称圈x)由一个作者所写，更新频率上Quantumult上次更新在2020年，圈x更新则更频繁，功能上圈x更加专业，价格上圈x则更贵;
 另外QuantumultX和Surge面向专业发烧友群体，更加注重分流规则构造HTTP请求、HTTPS解密和MitM等功能(软件也就越贵)同时[UI方面](#quantumult-x-ui界面--返回)更加美观定制([教程] / [神机规则]);
@@ -164,23 +164,23 @@ Loon最为新兴软件，有着Surge美观的界面，但仍处于测试阶段;P
 以下软件顺序按照欢迎度从高到低排列
 
  <!--Shadowrocket｜Quantumult X｜Surge｜Quantumult｜Potatso 2｜Stash｜Loon｜Potatso｜OneClick｜Shadowlink｜教程-->
-### Shadowrocket *$2.99*
+#### Shadowrocket *$2.99*
 [![轻触跳转至App Store][svg-apple]][ipk-ssr]
-### Quantumult X *$7.99*
+#### Quantumult X *$7.99*
 [![轻触跳转至App Store][svg-apple]][ipk-quanx]
-### Surge *$49.99* App内购买
+#### Surge *$49.99* App内购买
 [![轻触跳转至App Store][svg-apple]][ipk-surge]
-### Stash *$2.99*
+#### Stash *$2.99*
 [![轻触跳转至App Store][svg-apple]][ipk-stash]
-### Quantumult  *$4.99*
+#### Quantumult  *$4.99*
 [![轻触跳转至App Store][svg-apple]][ipk-quan]
-### Potatso 2  *$2.99*
+#### Potatso 2  *$2.99*
 [![轻触跳转至App Store][svg-apple]][ipk-p2]
-### Loon *$4.99*
+#### Loon *$4.99*
 [![轻触跳转至App Store][svg-apple]][ipk-loon]
-### OneClick  *Free*
+#### OneClick  *Free*
 [![轻触跳转至App Store][svg-apple]][ipk-oc]
-### Shadowlink  *Free*
+#### Shadowlink  *Free*
 [![轻触跳转至App Store][svg-apple]][ipk-sl]
 
 [ipk-ssr]: https://apps.apple.com/app/shadowrocket/id932747118
@@ -196,101 +196,101 @@ Loon最为新兴软件，有着Surge美观的界面，但仍处于测试阶段;P
 [svg-apple]: https://ghproxy.com/https://raw.githubusercontent.com/yu-steven/tag/main/ios-black.svg
 [教程]: https://limbopro.com/archives/3846.html
 [神机规则]: https://merlinblog.xyz/wiki/quanx.html
-##### [如何创建美区Apple ID？](https://shadowsockshelp.github.io/Shadowsocks/apple-id.html)
-##### [购买美区Apple ID、App Store付费软件入口](https://fk.myue.cc/)
+###### [如何创建美区Apple ID？](https://shadowsockshelp.github.io/Shadowsocks/apple-id.html)
+###### [购买美区Apple ID、App Store付费软件入口](https://fk.myue.cc/)
 
-## Linux
+### Linux
 如果您在Linux上有办公，写代码等需求，您可以使用这些软件以连接国际网络。
-### [Clash](https://github.com/Dreamacro/clash/releases/)｜[v2rayA] ｜[v2rayL]｜[Qv2ray](https://ghproxy.com/https://github.com/Qv2ray/Qv2ray/releases/download/v2.7.0/Qv2ray-v2.7.0-linux-x64.AppImage)
+#### [Clash](https://github.com/Dreamacro/clash/releases/)｜[v2rayA] ｜[v2rayL]｜[Qv2ray](https://ghproxy.com/https://github.com/Qv2ray/Qv2ray/releases/download/v2.7.0/Qv2ray-v2.7.0-linux-x64.AppImage)
 
 [clash]: https://github.com/Dreamacro/clash/releases/
 [v2rayA]: https://github.com/v2rayA/v2rayA/releases/
 [v2rayL]: https://github.com/jiangxufeng/v2rayL/releases/download/2.1.3/v2rayLui-v2.1.3.zip
 [qv2ray]: https://ghproxy.com/https://github.com/Qv2ray/Qv2ray/releases/download/v2.7.0/Qv2ray-v2.7.0-linux-x64.AppImage
 
-## Android TV
+### Android TV
 您可以通过在智能电视上安装相关应用来观看Netflix,Disney+等内容。
 电视性能主要偏重于视频解码性能，网络解析方面性能较差，可能会造成意想不到的卡顿等情况。 我们建议您通过软路由进行协议转换，再通过智能电视连接
-### ｜[SS](https://ghproxy.com/https://github.com/shadowsocks/shadowsocks-android/releases/download/v5.2.6/shadowsocks-tv--universal-v5.2.6.apk)｜
+#### ｜[SS](https://ghproxy.com/https://github.com/shadowsocks/shadowsocks-android/releases/download/v5.2.6/shadowsocks-tv--universal-v5.2.6.apk)｜
 ***
-##### 由于**可能的**更新不及时，下面给出以上软件GitHub托管地址以及最后更新时间  [返回🔙](#为加快github文件下载速度已为所有文件进行加速如不信任本仓库链接或者有更多软件需求请在此处选择要下载的文件)
+###### 由于**可能的**更新不及时，下面给出以上软件GitHub托管地址以及最后更新时间  [返回🔙](#为加快github文件下载速度已为所有文件进行加速如不信任本仓库链接或者有更多软件需求请在此处选择要下载的文件)
 链接全部指向releases(软件包)地址，可以删除地址结尾的`releases`转到仓库主页，在releases后面加上`.atom`可以进行RSS订阅，选择困难者**勿入**
-## ShadowSocks
-### Windows
+### ShadowSocks
+#### Windows
 ` https://github.com/shadowsocks/shadowsocks-windows/releases`
 *2022.2.8 19:39 --- v4.4.1.0*
-### macOS
+#### macOS
 ` https://github.com/shadowsocks/ShadowsocksX-NG/releases`
 *2019.11.13 10:18 --- v1.9.4*
-### Android / TV
+#### Android / TV
 ` https://github.com/shadowsocks/shadowsocks-android/releases`
 *2021.9.17 10:37 --- v5.2.6*
-### ShadowSocks-core
+#### ShadowSocks-core
 ` https://github.com/shadowsocks/shadowsocks-libev/releases`
 *2020.9.15 10:53 --- v3.3.5*
 
-## ShadowSocksR
-### Windows
+### ShadowSocksR
+#### Windows
 ` https://github.com/shadowsocksrr/shadowsocksr-csharp/releases`
 *2019.4.21 21:00 --- v4.9.2*
-### Android / TV
+#### Android / TV
 ` https://github.com/shadowsocksrr/shadowsocksr-android/releases`
 *2018.3.9 15:00 --- v3.5.4*
-### ShadowSocksR-core
+#### ShadowSocksR-core
 ` https://github.com/shadowsocksrr/shadowsocksr-libev`
 *2016.12.29 07:00 --- v2.5.6*
 
-## v2ray
-### Windows
+### v2ray
+#### Windows
 ` https://github.com/2dust/v2rayN/releases`
 *2022.8.18 21:26 --- v5.34*
-### Android / TV
+#### Android / TV
 ` https://github.com/2dust/v2rayNG/releases`
 *2022.8.13 09:35 --- v1.7.18*
-### v2rayA for Win
+#### v2rayA for Win
 ` https://github.com/v2rayA/v2rayA/releases`
 *2022.6.18 22:51 --- v1.5.7*
-### v2rayU for Mac
+#### v2rayU for Mac
 ` https://github.com/yanue/V2rayU/releases`
 *2021.8.19 21:47 --- v3.3.0*
-### v2rayX for Mac
+#### v2rayX for Mac
 ` https://github.com/Cenmrev/V2RayX/releases`
 *2019.2.14 11:51 --- v1.5.1*
-### v2rayL for Linux
+#### v2rayL for Linux
 ` https://github.com/jiangxufeng/v2rayL/releases`
 *2019.11.24 --- v2.1.3*
-### v2ray-core
+#### v2ray-core
 ` https://github.com/v2fly/v2ray-core/releases`
 *2022.6.13 07:29 --- v5.0.8*
-### Xray-core
+#### Xray-core
 ` https://github.com/XTLS/Xray-core/releases`
 *2022.6.13 07:47 --- v1.5.8*
 
-## Clash
-### Win / Mac
+### Clash
+#### Win / Mac
 ` https://github.com/Fndroid/clash_for_windows_pkg/releases`
 *2022.8.19 15:57 --- v0.19.27*
-### Android / TV
+#### Android / TV
 ` https://github.com/Kr328/ClashForAndroid/releases`
 *2022.7.2 11:40 --- v2.5.11*
-### ClashN for Win
+#### ClashN for Win
 ` https://github.com/2dust/clashN/releases`
 *2022.8.12 02:22 --- v1.20*
-### ClashX for Mac
+#### ClashX for Mac
 ` https://github.com/yichengchen/clashX/releases`
 *2022.6.22 21:20 --- v1.94.0*
-### Clash 汉化补丁 for Win
+#### Clash 汉化补丁 for Win
 ` https://github.com/BoyceLig/Clash_Chinese_Patch/releases`
 *2022.8.19 20:45 --- v0.19.27*
 
 ` https://github.com/ender-zhao/Clash-for-Windows_Chinese/releases`
 *2022.8.19 18:57 --- v0.19.27*
-### Clash-core
+#### Clash-core
 ` https://github.com/Dreamacro/clash/releases`
 *2022.6.19 13:27 --- v1.11.0*
 
-## Qv2ray
-### Win/Mac/Linux
+### Qv2ray
+#### Win/Mac/Linux
 ` https://github.com/Qv2ray/Qv2ray/releases`
 *2021.8.17 11:41 --- v2.7.0* **The End**
 ***
