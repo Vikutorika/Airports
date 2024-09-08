@@ -42,6 +42,7 @@
 - [ShareCentre Pro \|\| 全网节点仓库](https://t.me/ShareCentrePro)
 - [人类高质量分享中心｜ShareCentre](https://t.me/ShareCentre)
 - [机场分享交流频道](https://t.me/AirportShare)
+- [✈️ 机场观测 • 白嫖无罪](https://t.me/freemason6)
 
 ## 订阅
 
