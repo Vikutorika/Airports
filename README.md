@@ -32,19 +32,19 @@
 
 ## 公益页面/自动抓取
 
+- https://v2rayse.com/
+- https://github.com/Pawdroid/Free-servers
+- https://github.com/ermaozi/get_subscribe
+- https://sub.sharecentre.online/sub
 - ~~https://github.com/ldir92664/Vmess-Actions/tree/main/subscribe~~（已死）
 - ~~https://github.com/vpei/Free-Node-Merge~~（已死）
-- https://v2rayse.com/
-- https://github.com/chfchf0306/jeidian4.18
-- https://github.com/Pawdroid/Free-servers
-- https://naive.wangcb.com/
-- https://github.com/wrfree/free
-- https://github.com/colatiger/v2ray-nodes
-- https://github.com/alanbobs999/TopFreeProxies
-- https://github.com/ermaozi/get_subscribe
-- https://github.com/JACKUSR2089/v2ray-subscribed
-- https://sub.sharecentre.online/sub
-- (Clash) https://prop.cf/?name=paimon
+- ~~https://github.com/chfchf0306/jeidian4.18~~（长期未更新）
+- ~~https://naive.wangcb.com/~~（已死）
+- ~~https://github.com/wrfree/free~~（长期未更新）
+- ~~https://github.com/colatiger/v2ray-nodes~~（已死）
+- ~~https://github.com/alanbobs999/TopFreeProxies~~（已死）
+- ~~https://github.com/JACKUSR2089/v2ray-subscribed~~（长期未更新）
+- ~~(Clash) https://prop.cf/?name=paimon~~（已死）
 
 
 ## Telegram频道
