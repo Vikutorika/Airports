@@ -1,7 +1,7 @@
 # Airports 个人机场/订阅汇总
 
 > [!Warning]
-> **本页面禁止大范围传播！！！本页面的推荐纯个人推荐，没有接任何广告。**
+> **本页面禁止大范围传播！！！**
 >
 > **部分机场的官网可能需要梯子进，进不去的话试试开梯子**
 > 
@@ -32,8 +32,8 @@
 
 ## 公益页面/自动抓取
 
-- https://github.com/ldir92664/Vmess-Actions/tree/main/subscribe
-- https://github.com/vpei/Free-Node-Merge
+- ~~https://github.com/ldir92664/Vmess-Actions/tree/main/subscribe~~（已死）
+- ~~https://github.com/vpei/Free-Node-Merge~~（已死）
 - https://v2rayse.com/
 - https://github.com/chfchf0306/jeidian4.18
 - https://github.com/Pawdroid/Free-servers
