@@ -7,9 +7,6 @@
 > 
 > **请注意，本页面链接的网址中可能含有不适当的信息，请根据自己的思想去判断正确与否！**
 
-> [!Tip]
-> 只推荐好用且性价比高的机场，不想走AFF就把后面的code删掉就可以了
-
 > [!important]
 > ## AD
 > - Zmoe Air https://air.zmoe.org/#/register?code=QH9fgMRX 目标是未来的高端机场！！！**（邀请制）**
@@ -17,6 +14,11 @@
 >   ![image](https://github.com/user-attachments/assets/dfc113e0-0e0d-4a60-8f3e-aec601659883)
 > - **偷偷告诉你：大部分为vless+reality/Hysteria2节点，而且有家宽节点哦~**
 >   ![image](https://github.com/user-attachments/assets/a8e2ee5c-190b-4b08-9df2-62b142ca7d14)
+
+
+> [!Tip]
+> 只推荐好用且性价比高的机场，不想走AFF就把后面的code删掉就可以了
+
 
 ## 收费（还算划算）的鸡场
 
