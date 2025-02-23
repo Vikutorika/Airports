@@ -23,7 +23,7 @@
 
 ## 收费（还算划算）的鸡场
 
-- https://shop.sanfen.co/#/register?code=Dx3foRL5 三分机场 9.5一年（约合每天3分，不过注意价格是按美元计的，所以可能要大于9.5，随汇率有点小变动）**有时候会受到特殊时间点的影响**
+- ~~https://shop.sanfen.co/#/register?code=Dx3foRL5 三分机场 9.5一年（约合每天3分，不过注意价格是按美元计的，所以可能要大于9.5，随汇率有点小变动）**有时候会受到特殊时间点的影响**~~ 年付9.5已下架，不值
 - https://mojie.me/#/register?code=yEVn40JR 魔戒 只有按流量计费，费用还可以 用得少的推荐买14.9CNY/130G 或者42CNY/420G
 - https://pqjc.site/#/register?code=Q3Nf6Ail 赔钱机场 胜在节点多且倍率低 有流量套餐或者月付
 
