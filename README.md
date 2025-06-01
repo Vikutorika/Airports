@@ -7,19 +7,8 @@
 > 
 > **请注意，本页面链接的网址中可能含有不适当的信息，请根据自己的思想去判断正确与否！**
 
-> [!important]
-> ## AD
-> - Zmoe Air https://air.zmoe.org/#/register?code=QH9fgMRX 目标是未来的高端机场！！！**（邀请制）**
-> - Telegram群组（有问题可以去群里拷打群主）https://t.me/ZmoeAir
-> - 目前月付2R起即可得到畅快的链接体验，截止至推Commit前，机场的节点列表已经有了🇭🇰 🇺🇸 🇯🇵 🇸🇬 🇳🇬的节点，未来将加入更多的地区，IP真的真的真的很纯净
->   ![image](https://github.com/user-attachments/assets/dfc113e0-0e0d-4a60-8f3e-aec601659883)
-> - **偷偷告诉你：有家宽节点哦~**
->   ![image](https://github.com/user-attachments/assets/a8e2ee5c-190b-4b08-9df2-62b142ca7d14)
-
-
 > [!Tip]
 > 只推荐好用且性价比高的机场，不想走AFF就把后面的code删掉就可以了
-
 
 ## 收费（还算划算）的鸡场
 
