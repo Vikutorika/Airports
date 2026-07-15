@@ -16,7 +16,7 @@
 
 ## 收费（还算划算?）的鸡场
 
-- https://app.wyun.im/#/register?code=5MdoYIV0 LingSpeed 速凌，只有月付，优势在自研技术和专线，机场主精通专线的部署维护和数据通信安全防护，用的京港 IEPL，推荐追求连接质量的购买
+- https://app.wyun.im/#/register?code=5MdoYIV0 LingSpeed 速凌，周期付，优势在自研技术和高端线路，机场主精通专线的部署维护和数据通信安全防护，用的京港 IEPL，推荐追求连接质量的购买
 - https://mojie.me/#/register?code=yEVn40JR 魔戒 只有按流量计费，费用还可以 用得少的推荐买14.9CNY/130G 或者42CNY/420G
 - https://pqjc.site/#/register?code=Q3Nf6Ail 赔钱机场 胜在节点多且倍率低 有流量套餐或者月付
 
